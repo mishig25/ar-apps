@@ -15,7 +15,7 @@ Visualize brain and its neural activity in Augmented Reality using OpenPose and 
 
 #### Process steps
 1. Extract 2D head position data through OpenPose
-![Alt Text](https://github.com/mishig25/brainAR/raw/master/openpose_demo-min.gif)
+![Alt Text](https://github.com/mishig25/brainAR/raw/master/openpose_demo-min.gif =250x)
 2. Model, shade, and render 3D brain in Unity
 ![Alt Text](https://github.com/mishig25/brainAR/raw/master/brain_unity-min.gif)
 3. Interpret 2D head position data retrieved in Step1 in Unity, reconstruct 3D head position data from 2D data
