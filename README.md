@@ -1,7 +1,7 @@
 # Brain AR
  A small personal project report
 
-###  *The human brain has 100 billion neurons, each neuron connected to 10 thousand other neurons. Sitting on your shoulders is the most complicated object in the known universe.* - Michio Kaku
+*The human brain has 100 billion neurons, each neuron connected to 10 thousand other neurons. Sitting on your shoulders is the most complicated object in the known universe.* - Michio Kaku
 
 #### Demo
 <img src="https://github.com/mishig25/brainAR/raw/master/result-min.gif" height="170">
